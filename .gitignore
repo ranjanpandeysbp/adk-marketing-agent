@@ -4,5 +4,6 @@ __pycache__/
 *.pyo
 *.pyd
 *.egg-info/
+*.env
 .venv/
 venv/  # Alternative name for the virtual environment directory
