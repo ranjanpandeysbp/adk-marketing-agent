@@ -12,7 +12,7 @@ except ImportError:
 from google.adk.agents import LlmAgent, SequentialAgent
 from google.adk.tools import google_search
 
-from mmkta.instructions import (
+from multi_agent_marketing.instructions import (
     MARKET_RESEARCH_INSTRUCTION,
     MESSAGING_STRATEGIST_INSTRUCTION,
     AD_COPY_WRITER_INSTRUCTION,
