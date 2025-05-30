@@ -1,0 +1,8 @@
+# Python specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/  # Alternative name for the virtual environment directory
